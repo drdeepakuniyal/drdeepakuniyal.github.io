@@ -1,56 +1,62 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Deepak Uniyal"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi, I am a PhD candidate at the [School of Computer Science](https://www.qut.edu.au/about/faculty-of-science/school-of-computer-science), [Queensland University of Technology (QUT)](https://www.qut.edu.au/), Brisbane, Australia, supervised by [Professor Richi Nayak](https://www.qut.edu.au/about/our-people/academic-profiles/r.nayak) and [Dr Md Abul Bashar](https://www.qut.edu.au/about/our-people/academic-profiles/md.bashar). I am currently in the final stages of writing my thesis.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research focuses on **Natural Language Processing (NLP)** and **Machine Learning**, with a particular emphasis on cross-linguistic text classification, topic modelling, semi-supervised learning, and social media analysis. I develop automated systems to analyse and understand emerging trends and issues across multilingual online platforms using pre-trained transformer models (BERT, RoBERTa) and novel deep learning architectures.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I also work as an **Academic Tutor** at QUT, teaching units in Algorithms and Complexity, Programming Fundamentals, Object-Oriented Programming, and Computer Systems Fundamentals. Prior to my PhD, I served as an **Assistant Professor of Computer Science** at Graphic Era University, India for six years, and as a **Software Engineer** at Evalueserve SEZ Private Limited, Gurgaon.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am based in Brisbane, Australia, and hold unrestricted working rights in Australia.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+## News
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **June 2026** — Applying for postdoctoral positions in NLP, Machine Learning, and AI in Australia.
+- **2026** — Paper *"An Automated System Based on Cross-Linguistic NLP to Analyse Emerging Trends on Social Media Platforms"* submitted to *Journal of Big Data* (Under Review).
+- **2026** — Paper *"MetaGAN: Multi-View Consistency Regularisation with Conditional GAN Augmentation for Semi-Supervised Text Classification"* submitted to *Intelligent Systems with Applications* (Under Review).
+- **2025** — Paper *"Uncertainty-based Consistency Regularisation for Text Classification with Limited Labels"* published in [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705125022610).
+- **2025** — Paper *"Evaluating Cross-Lingual Classification Strategies Enabling Topic Discovery for Multilingual Social Media Data"* accepted at [AusDM 2025](https://link.springer.com/book/9789819567850).
+- **2024** — Paper *"Twitter's Pulse on Hydrogen Energy in 280 Characters: A Data Perspective"* published in [Social Network Analysis and Mining](https://link.springer.com/article/10.1007/s13278-023-01194-6).
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Research Interests
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- Natural Language Processing
+- Pre-trained Transformer Models (BERT, RoBERTa)
+- Text Classification and Topic Modelling
+- Semi-Supervised Learning
+- Cross-Lingual NLP
+- Social Media Analysis
+- Sentiment Analysis
+- Information Extraction
 
-**Markdown generator**
+## Education
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+- **Ph.D. in Computer Science**, Queensland University of Technology, Brisbane, Australia (2022 -- Present)
+  - Thesis: *An Automated System based on Cross-Linguistic Natural Language Processing to Analyse and Understand Emerging Trends and Issues on Social Media Platforms*
+- **M.Tech in Computer Science and Engineering**, Indian Institute of Technology Roorkee, India (2012 -- 2014), CGPA: 8.27
+- **B.Tech in Computer Science and Engineering**, College of Engineering Roorkee, India (2008 -- 2012), 75.14%
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Selected Publications
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+- Deepak Uniyal, Md. Abul Bashar, Richi Nayak. [Uncertainty-based Consistency Regularisation for Text Classification with Limited Labels](https://www.sciencedirect.com/science/article/pii/S0950705125022610). *Knowledge-Based Systems*, 2025.
+- Deepak Uniyal, Md. Abul Bashar, Richi Nayak. [Evaluating Cross-Lingual Classification Strategies Enabling Topic Discovery for Multilingual Social Media Data](https://link.springer.com/book/9789819567850). *AusDM*, 2025.
+- Deepak Uniyal, Richi Nayak. [Twitter's Pulse on Hydrogen Energy in 280 Characters: A Data Perspective](https://link.springer.com/article/10.1007/s13278-023-01194-6). *Social Network Analysis and Mining*, 2024.
+- Deepak Uniyal, Amit Agarwal, Dipanjan Deb, Durga Toshniwal. [Dense Vector Embedding Based Approach to Identify Prominent Disseminators from Twitter Data amid COVID-19 Outbreak](https://ieeexplore.ieee.org/document/9444608). *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2021.
+- Deepak Uniyal, Amit Agarwal. [IRLCov19: A Large COVID-19 Multilingual Twitter Dataset of Indian Regional Languages](https://link.springer.com/chapter/10.1007/978-3-030-93733-1_22). *ECML PKDD 2021* (SoGood Workshop).
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[See all publications](/publications/)
+
+## Academic Achievements
+
+- **GATE 2012** — All India Rank 261 out of 156,780 aspirants (top 0.2% nationally)
+- **NET** — Qualified National Eligibility Test for Assistant Professor in Computer Science
+
+## Contact
+
+Feel free to reach out via email at [deepak.uniyal@hdr.qut.edu.au](mailto:deepak.uniyal@hdr.qut.edu.au) or connect on [LinkedIn](https://www.linkedin.com/in/beinguniyal).
