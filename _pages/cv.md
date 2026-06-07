@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-A PDF version of my CV is available [here](/files/Deepak_Uniyal_CV.pdf).
-
 ## Education
 
 - **Ph.D.**, Queensland University of Technology, Brisbane, Australia (2022 - Present)
@@ -39,7 +35,7 @@ A PDF version of my CV is available [here](/files/Deepak_Uniyal_CV.pdf).
 - Co-developed an Intellectual Property (IP) Dashboard for corporate R&D teams.
 - Developed Python automation scripts for research and analytics workflows.
 
-## Skills
+## Technical Skills
 
 - **Programming:** Python, C, C++, Java, Perl
 - **NLP and ML:** Pre-trained Transformers (BERT, RoBERTa), HuggingFace, PyTorch, Scikit-learn, NLTK, SpaCy
@@ -51,7 +47,6 @@ A PDF version of my CV is available [here](/files/Deepak_Uniyal_CV.pdf).
 
 - **GATE 2012** - All India Rank 261 out of 156,780 aspirants (top 0.2% nationally)
 - **NET** - Qualified National Eligibility Test for Assistant Professor in Computer Science
-- **Work Rights** - Unrestricted working rights in Australia
 
 ## Languages
 
