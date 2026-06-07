@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air"
+site_theme               : "default"
 title                    : "Deepak Uniyal"
 title_separator          : "-"
 name                     : &name "Deepak Uniyal"
@@ -31,7 +31,7 @@ author:
   # Academic websites
   academia         :
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=Uniyal+Deepak"
-  googlescholar    :
+  googlescholar    : "https://scholar.google.co.in/citations?user=pHBHevAAAAAJ&hl=en"
   inspire-hep      :
   impactstory      :
   orcid            :
