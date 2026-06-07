@@ -1,0 +1,57 @@
+---
+title: "All Publications"
+collection: publications
+permalink: /publication/all
+---
+
+## Under Review
+
+**Deepak Uniyal**, Md. Abul Bashar, Richi Nayak.
+*An Automated System Based on Cross-Linguistic NLP to Analyse Emerging Trends on Social Media Platforms.*
+Journal of Big Data (2026).
+
+**Deepak Uniyal**, Md. Abul Bashar, Richi Nayak.
+*MetaGAN: Multi-View Consistency Regularisation with Conditional GAN Augmentation for Semi-Supervised Text Classification.*
+Intelligent Systems with Applications (2026).
+
+## Journal Articles
+
+**Deepak Uniyal**, Md. Abul Bashar, Richi Nayak.
+[Uncertainty-based Consistency Regularisation for Text Classification with Limited Labels.](https://www.sciencedirect.com/science/article/pii/S0950705125022610)
+*Knowledge-Based Systems*, 2025.
+
+**Deepak Uniyal**, Richi Nayak.
+[Twitter's Pulse on Hydrogen Energy in 280 Characters.](https://link.springer.com/article/10.1007/s13278-023-01194-6)
+*Social Network Analysis and Mining*, 2024.
+
+**Deepak Uniyal**, Amit Agarwal, Dipanjan Deb, Durga Toshniwal.
+[Dense Vector Embedding Based Approach to Identify Prominent Disseminators from Twitter Data amid COVID-19.](https://ieeexplore.ieee.org/document/9444608)
+*IEEE Transactions on Emerging Topics in Computational Intelligence*, 2021.
+
+**Deepak Uniyal**, Sandeep Uniyal.
+[Social Media Emerging as A Third Eye!! Decoding Users' Sentiment on Government Policy.](https://doi.org/10.1109/WorldS450073.2020.9210400)
+*WorldS4 2020*, 2020.
+
+## Conference Papers
+
+**Deepak Uniyal**, Md. Abul Bashar, Richi Nayak.
+[Evaluating Cross-Lingual Classification Strategies Enabling Topic Discovery for Multilingual Social Media Data.](https://link.springer.com/book/9789819567850)
+*AusDM*, 2025.
+
+**Deepak Uniyal**, Amit Agarwal.
+[IRLCov19: A Large COVID-19 Multilingual Twitter Dataset of Indian Regional Languages.](https://link.springer.com/chapter/10.1007/978-3-030-93733-1_22)
+*ECML PKDD 2021*.
+
+Raghavendra S. Shekhawat, **Deepak Uniyal**.
+[Smart-Bin: IoT Based Real Time Garbage Monitoring System for Smart Cities.](https://www.springer.com/us/book/9789811608810)
+*ICTCS-2020*, 2020.
+
+## Preprints
+
+**Deepak Uniyal**, Ankit Rai.
+[Citizens' Emotion on GST: A Spatio-Temporal Analysis over Twitter Data.](https://arxiv.org/abs/1906.08693)
+arXiv, 2019.
+
+**Deepak Uniyal**, Vaskar Raychoudhury.
+[Pervasive Healthcare: A Comprehensive Survey of Tools and Techniques.](https://arxiv.org/abs/1411.1821)
+arXiv, 2014.
