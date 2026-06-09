@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am a PhD candidate at the [School of Computer Science](https://www.qut.edu.au/about/faculty-of-science/school-of-computer-science), [Queensland University of Technology (QUT)](https://www.qut.edu.au/), Brisbane, Australia, supervised by [Professor Richi Nayak](https://www.qut.edu.au/about/our-people/academic-profiles/r.nayak). I am currently in the final stages of writing my thesis.
 
-My research focuses on **Natural Language Processing (NLP)** and **Machine Learning**, with a particular emphasis on cross-linguistic text classification, topic modelling, and social media analysis. I develop automated systems to analyse and understand emerging trends across multilingual online platforms using pre-trained transformer models (BERT, RoBERTa) and novel deep learning architectures including semi-supervised and GAN-based methods.
+My research focuses on **Natural Language Processing (NLP)** and **Machine Learning**, with a particular emphasis on cross-linguistic text classification, topic modelling, and social media analysis. I develop automated systems to analyse and understand emerging trends across multilingual online platforms using pre-trained transformer models (BERT, RoBERTa) and novel deep learning architectures, including semi-supervised and GAN-based methods.
 
 Before starting my PhD, I spent six years as an **Assistant Professor of Computer Science** at Graphic Era University, India, and worked as a **Software Engineer** at Evalueserve SEZ Private Limited, Gurgaon. I am also an **Academic Tutor** at QUT, teaching units in Algorithms and Complexity, Programming Fundamentals, and Object-Oriented Programming.
 
@@ -30,6 +30,11 @@ I am based in Brisbane, Australia.
 ## News
 
 **May 2024** - QUT featured our research on hydrogen energy Twitter analysis: [Global analysis of 30M hydrogen energy tweets shows increase from 2015 Paris Agreement](https://www.qut.edu.au/news?id=194352).
+
+## Grants and Funding
+
+QUT Centre for Data Science (CDS) Second Byte Grant (10,000 AUD) - Awarded for a collaborative research project between QUT and Macquarie University, Australia.
+
 
 ## Research Interests
 
