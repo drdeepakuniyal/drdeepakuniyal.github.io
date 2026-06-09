@@ -15,7 +15,7 @@ Before starting my PhD, I spent six years as an **Assistant Professor of Compute
 
 I am based in Brisbane, Australia.
 
-## News
+## Publications
 
 **2026** - Paper *"An Automated System Based on Cross-Linguistic NLP to Analyse Emerging Trends on Social Media Platforms"* submitted to *Journal of Big Data* (Under Review).
 
@@ -25,9 +25,11 @@ I am based in Brisbane, Australia.
 
 **2025** - Paper *"Evaluating Cross-Lingual Classification Strategies Enabling Topic Discovery for Multilingual Social Media Data"* accepted at [AusDM 2025](https://link.springer.com/book/9789819567850).
 
-**May 2024** - QUT featured our research on hydrogen energy Twitter analysis: [Global analysis of 30M hydrogen energy tweets shows increase from 2015 Paris Agreement](https://www.qut.edu.au/news?id=194352).
-
 **2024** - Paper *"Twitter's Pulse on Hydrogen Energy in 280 Characters: A Data Perspective"* published in [Social Network Analysis and Mining](https://link.springer.com/article/10.1007/s13278-023-01194-6).
+
+## News
+
+**May 2024** - QUT featured our research on hydrogen energy Twitter analysis: [Global analysis of 30M hydrogen energy tweets shows increase from 2015 Paris Agreement](https://www.qut.edu.au/news?id=194352).
 
 ## Research Interests
 
